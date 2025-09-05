@@ -3,8 +3,6 @@
 This is a simple **Calculator application** built using **Java AWT (Abstract Window Toolkit)**.  
 It performs basic arithmetic operations such as **Addition, Subtraction, Multiplication, and Division**.
 
----
-
 ## 🚀 Features
 - GUI-based calculator using Java AWT
 - Supports:
@@ -15,13 +13,9 @@ It performs basic arithmetic operations such as **Addition, Subtraction, Multipl
 - Clear (`C`) button to reset the calculation
 - Displays result instantly when pressing `=`
 
----
-
 ## 🛠️ Tech Stack
 - **Java** (Core)
 - **AWT (Abstract Window Toolkit)**
-
----
 
 ## ▶️ How to Run
 
